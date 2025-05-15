@@ -122,15 +122,16 @@
     url-search-params-polyfill "^7.0.0"
     uuid "^8.3.2"
 
-"@cubejs-client/core@^0.30.74":
-  version "0.30.74"
-  resolved "https://registry.yarnpkg.com/@cubejs-client/core/-/core-0.30.74.tgz#e58d90ece0f15c61434c0cf161ff0856ef7b0ef5"
-  integrity sha512-InZa/nKw1ldzvRui0nuZvLGrtYZOmGmIa1gCrCU4i9wAR7pQjlTL2nK+kZ6XLZ5MsuZGWgi3LZNNRkz1wNeiwA==
+"@cubejs-client/core@^0.36.4":
+  version "0.36.4"
+  resolved "https://registry.yarnpkg.com/@cubejs-client/core/-/core-0.36.4.tgz#cd6d61b19f4e00f7c4af743f159413c82d246e08"
+  integrity sha512-QOAQtxfuURVGetVJcJ2Z87XdVtT2Is3PlLUiLob0NFEA7PH+vXBSILk8sVSN6Y1ar2Q/bxF1az1P5cQ96FJteQ==
   dependencies:
+    "@babel/runtime" "^7.1.2"
     core-js "^3.6.5"
     cross-fetch "^3.0.2"
     dayjs "^1.10.4"
-    ramda "^0.27.0"
+    ramda "^0.27.2"
     url-search-params-polyfill "^7.0.0"
     uuid "^8.3.2"
 
@@ -2407,7 +2408,7 @@ public-encrypt@^4.0.0:
     randombytes "^2.0.1"
     safe-buffer "^5.1.2"
 
-ramda@^0.27.0:
+ramda@^0.27.0, ramda@^0.27.2:
   version "0.27.2"
   resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.27.2.tgz#84463226f7f36dc33592f6f4ed6374c48306c3f1"
   integrity sha512-SbiLPU40JuJniHexQSAgad32hfwd+DRUdwF2PlVuI5RZD0/vahUco7R8vD86J/tcEKKF9vZrUVwgtmGCqlCKyA==
