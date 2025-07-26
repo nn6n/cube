@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/cubedevinc/cube-tpch-scale-1#readme",
   "devDependencies": {
-    "cubejs-cli": "^0.30.48",
-    "@cubejs-backend/server": "^0.29.23"
+    "cubejs-cli": "^1.1.12",
+    "@cubejs-backend/server": "^1.0.0"
   }
 }
