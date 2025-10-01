@@ -27,7 +27,7 @@
     "@testcontainers/kafka": "~10.13.0",
     "dedent": "^0.7.0",
     "node-fetch": "^2.6.7",
-    "testcontainers": "^10.13.0"
+    "testcontainers": "^10.22.0"
   },
   "devDependencies": {
     "@cubejs-backend/linter": "1.2.24",
